@@ -15,5 +15,4 @@ to build real world projects that solve problems.
 - Google Workspace Tools
 
 ## Connect With Me
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: [Your GitHub URL]
+- GitHub: [(https://github.com/arnavshrivastava622-source)]
