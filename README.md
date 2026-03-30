@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! I'm [Arnav Shrivastava] 👋
 
-<!--
-**arnavshrivastava622-source/arnavshrivastava622-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 B.Tech [Arnav Shrivastava] | VIT Bhopal University
+- 📅 First Year (2025–2029)
+- 📧 [arnav.25bsa10184@vitbhopal.ac.in]
 
-Here are some ideas to get you started:
+## What I Hope to Learn
+I hope to learn coding, web development, and how 
+to build real world projects that solve problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills (In Progress)
+- Digital Literacy
+- Basic Python
+- Google Workspace Tools
+
+## Connect With Me
+- LinkedIn: [Your LinkedIn URL]
+- GitHub: [Your GitHub URL]
